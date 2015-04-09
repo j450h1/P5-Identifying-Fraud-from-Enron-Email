@@ -11,3 +11,13 @@ http://stackoverflow.com/questions/1541797/in-python-how-to-check-if-there-are-a
 http://stackoverflow.com/questions/944700/how-to-check-for-nan-in-python
 
 http://stackoverflow.com/questions/14620863/git-add-all-subdirectories
+
+http://stackoverflow.com/questions/12373733/staging-deleted-files
+
+http://blog.yhathq.com/posts/classification-using-knn-and-python.html
+
+http://en.wikipedia.org/wiki/Enron:_The_Smartest_Guys_in_the_Room
+
+http://en.wikipedia.org/wiki/Restricted_stock
+
+http://en.wikipedia.org/wiki/Precision_and_recall
