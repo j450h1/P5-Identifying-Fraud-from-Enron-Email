@@ -3,3 +3,11 @@ References
 http://en.wikipedia.org/wiki/Enron
 
 https://www.cs.cmu.edu/~./enron/
+
+http://discussions.udacity.com/t/outlier-removal/7446/2
+
+http://stackoverflow.com/questions/1541797/in-python-how-to-check-if-there-are-any-duplicates-in-list
+
+http://stackoverflow.com/questions/944700/how-to-check-for-nan-in-python
+
+http://stackoverflow.com/questions/14620863/git-add-all-subdirectories
