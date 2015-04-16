@@ -21,3 +21,7 @@ http://en.wikipedia.org/wiki/Enron:_The_Smartest_Guys_in_the_Room
 http://en.wikipedia.org/wiki/Restricted_stock
 
 http://en.wikipedia.org/wiki/Precision_and_recall
+
+http://scikit-learn.org/stable/modules/preprocessing.html
+
+http://stackoverflow.com/questions/10797819/finding-the-mode-of-a-list-in-python
